@@ -9,3 +9,5 @@ Thoai thư đã dài, tớ phải hát ru mấy con chó phòng tớ đi ngủ n
 
 Sinh nhật zui,
 Khoa đẹp chai hơn Khang.
+
+![Khang Đb](background.png)
